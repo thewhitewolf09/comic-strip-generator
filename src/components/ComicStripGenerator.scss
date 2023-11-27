@@ -173,9 +173,14 @@
 }
 @media (max-width: 768px) {
   .comic-strip-generator {
-    h1 {
-      font-size: 32px !important;
-      text-align: center;
+    .header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      h1 {
+        font-size: 32px !important;
+        text-align: center !important;
+      }
     }
 
     .form-container {

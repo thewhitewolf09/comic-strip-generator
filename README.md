@@ -1,4 +1,4 @@
 # stockup
 
 netlify deploy on:
-https://stockupindia.netlify.app/
+https://comicstrip.netlify.app/
