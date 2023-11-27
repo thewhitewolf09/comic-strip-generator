@@ -1,0 +1,13 @@
+.comic-panel {
+    padding: 5px;
+    img {
+      height: auto;
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .comic-panel {
+      padding: 3px;
+    }
+  }
